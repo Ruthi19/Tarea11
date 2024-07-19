@@ -1,5 +1,5 @@
 {
-    "builsd":[
+    "builds":[
         {
             "src": "python_heroku_task",
             "use": "@vercel/python",
